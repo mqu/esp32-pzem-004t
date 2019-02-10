@@ -4,3 +4,6 @@ Energy monitoring system based on [ESP32](https://esp32.info/), PZEM-004, Influx
 * [PZEM-004-T](https://innovatorsguru.com/ac-digital-multifunction-meter-using-pzem-004t/) is a small module with a serial port, connecting current transformer coil to a digital meter.
 
 Please look at Wiki. Source code comming soon.
+
+Links :
+* https://github.com/thorsten-l/ESP8266-PZEM004T : very complete firmware with REST API, OTA, OpenHAB, Web Interface.
