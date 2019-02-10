@@ -6,7 +6,7 @@ Energy monitoring system based on [ESP32](https://esp32.info/), PZEM-004, Influx
 * [PZEM-004-T](https://innovatorsguru.com/ac-digital-multifunction-meter-using-pzem-004t/) is a small module with a serial port, connecting current transformer coil to a digital meter.
 
 ## Wiring
-* you need to connect an 1k resistor on PZEM-004 module to allow 3.3V function. ![PZEM-004 resitor](https://wifi-iot.com/static/content/c39a10d0c7149c3.jpg) 
+* Because ESP12 and ESP8266 power supply is 3.3V and not 5V, you need to connect an 1k resistor on PZEM-004 module to allow 3.3V function. ![PZEM-004 resitor](https://wifi-iot.com/static/content/c39a10d0c7149c3.jpg) 
 
 ## Source code and documentatiin
 
