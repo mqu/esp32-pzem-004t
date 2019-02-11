@@ -14,3 +14,4 @@ Please look at Wiki. Source code comming soon.
 
 ## Links
 * https://github.com/thorsten-l/ESP8266-PZEM004T : very complete firmware with REST API, OTA, OLED dispay, OpenHAB, Web Interface.
+* https://github.com/olehs/PZEM004T/wiki/Basic-Setup : basic setup and wiring for Peacefair PEZEM-004T 
